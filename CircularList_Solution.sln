@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularList", "CircularLis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{38A46B54-726D-4B45-A147-473CC0C22D3C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerformanceProfile", "PerformanceProfile\PerformanceProfile.csproj", "{E38F13F5-E28D-4A6E-AD37-F4FF7EF223A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38A46B54-726D-4B45-A147-473CC0C22D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38A46B54-726D-4B45-A147-473CC0C22D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38A46B54-726D-4B45-A147-473CC0C22D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38F13F5-E28D-4A6E-AD37-F4FF7EF223A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38F13F5-E28D-4A6E-AD37-F4FF7EF223A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38F13F5-E28D-4A6E-AD37-F4FF7EF223A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38F13F5-E28D-4A6E-AD37-F4FF7EF223A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

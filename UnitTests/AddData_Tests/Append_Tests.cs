@@ -42,7 +42,7 @@ namespace UnitTests.AddData_Tests
             {
                 test.Append(i);
             }
-            int[] testArray = test.ToArray();
+            //int[] testArray = test.ToArray();
         }
     }
 }
